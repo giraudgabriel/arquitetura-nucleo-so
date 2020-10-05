@@ -24,7 +24,7 @@
 
 # Arquitetura Monolítica
 
-- ### A arquitetura monolítica foi utilizada nos primeiros sistemas operacionais tais como CP/M, MS- ###DOS e nas primeiras versões do Linux. Nesta arquitetura os componentes do sistema são compilados em módulos separados e depois linkados em um único programa executável. Os módulos são carregados em memória e interagem entre si. A manutenção deste tipo de sistema é bem difícil.
+- ### A arquitetura monolítica foi utilizada nos primeiros sistemas operacionais tais como CP/M, MS-DOS e nas primeiras versões do Linux. Nesta arquitetura os componentes do sistema são compilados em módulos separados e depois linkados em um único programa executável. Os módulos são carregados em memória e interagem entre si. A manutenção deste tipo de sistema é bem difícil.
 
 # Arquitetura em Camadas
 
